@@ -1,0 +1,17 @@
+*{
+    font-family: sans-serif;
+    font-weight: normal;
+}
+.main_heading{
+    text-align: center;
+}
+.init_li{
+   
+   font-size: 35px;
+}
+
+.init{
+  width: 800px;
+  padding-top: 20px;
+  line-height: 7px;
+}
