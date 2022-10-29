@@ -5,7 +5,7 @@
 .main_heading{
     text-align: center;
 }
-.init_li{
+.heading{
    
    font-size: 35px;
 }
@@ -14,4 +14,9 @@
   width: 800px;
   padding-top: 20px;
   line-height: 7px;
+}
+.text{
+  line-height: 37px;
+  font-size: 20px;
+
 }
