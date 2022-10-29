@@ -1,6 +1,7 @@
 *{
-    font-family: sans-serif;
-    font-weight: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight:normal;
+    color: #222635 !important;
 }
 .main_heading{
     text-align: center;
@@ -10,7 +11,7 @@
    font-size: 35px;
 }
 
-.init{
+.snapshot_class{
   width: 800px;
   padding-top: 20px;
   line-height: 7px;
